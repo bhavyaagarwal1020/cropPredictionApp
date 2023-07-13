@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mygui1</string>
+    <string name="About">Crop Recommendation</string>
+    <string name="About1">About This</string>
+    <string name="submit">Predict</string>
+    <string name="About2"> About Crop Recommendation App</string>
+    <string name="About3">For most countries, agriculture is unquestionably important and contributes to the economic sector of the country. India is the second-most populated country with over 1.4 billion inhabitants and also depends on agriculture as a primary source of revenue. Approximately 60.3 percent of India’s land is engaged in agriculture. Earlier, the crop to be sown was predicted by farmers’ hands-on practice and experience. They were not aware of the proper nutrients present in the soil, which reduced the yield of crops. Also, agriculture faces many other challenges, such as climatic changes, pests, crop diseases, etc. Therefore, the prediction of the right crop is necessary to ensure a better yield with less damage. So, considering all these problems, a system is designed using ensemble learning to recommend the crop based on certain features like soil content and climatic factors. Factors taken into consideration for the prediction are : Nitrogen content in the soil, Phosphorus content in the soil, Potassium content in the soil, pH of the soil, temperature, humidity, and rainfall.</string>
+
+</resources>
